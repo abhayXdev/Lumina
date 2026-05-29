@@ -1,0 +1,7 @@
+flask
+flask-cors
+google-genai
+edge-tts
+requests
+python-dotenv
+yt-dlp
