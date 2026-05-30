@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Models & Large Files
+backend/managed_components/
+backend/venv/
+*.onnx
+*.tflite
+*.bin
+build/
+sdkconfig
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+desktop.ini
+.DS_Store
