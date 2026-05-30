@@ -16,7 +16,7 @@
 // Configuration
 #define WIFI_SSID      "YOUR_WIFI_SSID"
 #define WIFI_PASS      "YOUR_WIFI_PASSWORD"
-#define WEBSOCKET_URL  "ws://YOUR_BACKEND_IP:8000/ws/esp32_001?api_key=your_api_key"
+#define WEBSOCKET_URL  "wss://typically-capacity-build-peace.trycloudflare.com/ws/esp32_001?api_key=your_api_key_here"
 
 #define I2S_WS 25
 #define I2S_SD 32
